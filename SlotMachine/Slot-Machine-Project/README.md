@@ -9,4 +9,4 @@
 ##
 * Use of lists and dictionaries to store values of machine 
 ##
-* Used loops to asks user to play again
+* Used loops for different conditions such as when a player wins or loses the game
