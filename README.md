@@ -1,7 +1,6 @@
 # Slot-Machine--Project
-Creates a simulated game of playing a slot machine
-This is a game that allows user to place bets on a slot machine
-Slot machine is represented as a transposed matrix
+Creates a simulated slot machine which allows user to place bets on a slot machine and earn or lose money.
+The Slot machine is represented as a transposed matrix
 
 ##
 * Utilizes Python methods 
